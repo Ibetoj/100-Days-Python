@@ -1,6 +1,6 @@
-print(" === Marvel Movie Character Creator === ")
-hanging = input("Do you like 'hanging' around?:")
-if hanging == "No":
-    print("Then you not Spider-man")
+myName = input("What's your name?:")
+if myName == "Judith":
+    print("She's a beautiful lady")
 else:
-    print("You're Spider-man")
+    print("She's a blessed woman")
+    
